@@ -3,7 +3,7 @@
 # Connecting to Ec2 servers
 ## Create EC2 instance
 #### Name and select OS
-![01-CreateEC2](https://github.com/SheyNjila1/ec2-connect/assets/96470430/66b9f427-bc00-4376-b7bc-ee381bef5915)
+![01-CreateEC2](https://github.com/SheyNjila1/ec2-connect/ab9f427-bc00-45)
 
 #### Choose ami Instance Type
 ![02-ami-instancetype](https://github.com/SheyNjila1/ec2-connect/assets/96470430/1350f03b-0d84-4a35-8b5f-4fbfe97eef43)
